@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikhil Bharadwaj Gosala</title>
+    <link>http://nikhilgosala.github.io/authors/nikhil/</link>
+    <description>Recent content on Nikhil Bharadwaj Gosala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="http://nikhilgosala.github.io/authors/nikhil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://nikhilgosala.github.io/authors/nikhil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nikhilgosala.github.io/authors/nikhil/</guid>
+      <description>&lt;p&gt;I am Master&amp;rsquo;s student in Computer Science at ETH Zürich and I am interested in exploring research areas at the intersection of Computer Vision and Deep Learning. Specifically, I am interested in research problems that focus on perception, planning, and prediction for autonomous mobile robots.&lt;/p&gt;
+
+&lt;p&gt;I am currently working as a research intern at nuTonomy/Aptiv, Singapore wherein I am focusing on improving the performance of detection and tracking of objects in real-time both by using radar only, and by fusing multiple sensor modalities.&lt;/p&gt;
+
+&lt;p&gt;I was also part of the Akademischer Motorsportverein Zürich (AMZ) Driverless team for two seasons, wherein I worked on the LiDAR module of the car in the first season before leading the Perception and Software Architecture teams in the second season. &lt;a href=&#34;https://youtu.be/HegmIXASKow?t=11691&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is a video showing our car «gotthard driverless» zooming around autonomously at the competition in Germany.&lt;/p&gt;
+
+&lt;!---
+My hobbies include playing sports, especially tennis, travelling, and photography. Some of my best photos can be found [here] and my travel journal can be found [here]!
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

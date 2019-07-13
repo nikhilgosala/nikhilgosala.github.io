@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Geethakumari on Nikhil Bharadwaj Gosala</title>
+    <link>http://nikhilgosala.github.io/authors/g-geethakumari/</link>
+    <description>Recent content in G Geethakumari on Nikhil Bharadwaj Gosala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://nikhilgosala.github.io/authors/g-geethakumari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CLOSER: Applying aggregation for effective event reconstruction of cloud service logs</title>
+      <link>http://nikhilgosala.github.io/publication/closer/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://nikhilgosala.github.io/publication/closer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
